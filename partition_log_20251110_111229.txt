@@ -1,0 +1,366 @@
+start Mon Nov 10 11:12:31 AM UTC 2025
+----- heuristics=none n=24 -----
+heuristics=none n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=1 nodes=9740 forced=19467 pruned=0
+seed=3725397606666226389 SAT=1 time_ms=1 nodes=16378 forced=32745 pruned=0
+seed=12864093595789979735 SAT=1 time_ms=3 nodes=61190 forced=122368 pruned=0
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=none n=28 -----
+heuristics=none n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=5 nodes=98210 forced=196403 pruned=0
+seed=9570298610396216866 SAT=1 time_ms=19 nodes=359434 forced=718854 pruned=0
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=1 nodes=16015 forced=32013 pruned=0
+----- heuristics=none n=32 -----
+heuristics=none n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=7 nodes=122306 forced=244593 pruned=0
+seed=18088460149753419645 SAT=1 time_ms=29 nodes=523908 forced=1047799 pruned=0
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=56 nodes=978926 forced=1957837 pruned=0
+seed=2526523603164460765 SAT=1 time_ms=7 nodes=130433 forced=260848 pruned=0
+----- heuristics=none n=36 -----
+heuristics=none n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=55 nodes=917392 forced=1834765 pruned=0
+seed=15842882005678279266 SAT=1 time_ms=210 nodes=3137457 forced=6274896 pruned=0
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=463 nodes=6812941 forced=13625862 pruned=0
+seed=13301693760612988338 SAT=1 time_ms=28 nodes=420884 forced=841747 pruned=0
+----- heuristics=mrv n=24 -----
+heuristics=mrv n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=1 nodes=9740 forced=19467 pruned=0
+seed=3725397606666226389 SAT=1 time_ms=1 nodes=16378 forced=32745 pruned=0
+seed=12864093595789979735 SAT=1 time_ms=3 nodes=61190 forced=122368 pruned=0
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=mrv n=28 -----
+heuristics=mrv n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=6 nodes=98210 forced=196403 pruned=0
+seed=9570298610396216866 SAT=1 time_ms=21 nodes=359434 forced=718854 pruned=0
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=1 nodes=16015 forced=32013 pruned=0
+----- heuristics=mrv n=32 -----
+heuristics=mrv n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=8 nodes=122306 forced=244593 pruned=0
+seed=18088460149753419645 SAT=1 time_ms=36 nodes=523908 forced=1047799 pruned=0
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=66 nodes=978926 forced=1957837 pruned=0
+seed=2526523603164460765 SAT=1 time_ms=9 nodes=130433 forced=260848 pruned=0
+----- heuristics=mrv n=36 -----
+heuristics=mrv n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=66 nodes=917392 forced=1834765 pruned=0
+seed=15842882005678279266 SAT=1 time_ms=228 nodes=3137457 forced=6274896 pruned=0
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=497 nodes=6812941 forced=13625862 pruned=0
+seed=13301693760612988338 SAT=1 time_ms=30 nodes=420884 forced=841747 pruned=0
+----- heuristics=lcv n=24 -----
+heuristics=lcv n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=0 nodes=1403 forced=2787 pruned=0
+seed=3725397606666226389 SAT=1 time_ms=0 nodes=7317 forced=14615 pruned=0
+seed=12864093595789979735 SAT=1 time_ms=0 nodes=948 forced=1876 pruned=0
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=lcv n=28 -----
+heuristics=lcv n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=0 nodes=2258 forced=4494 pruned=0
+seed=9570298610396216866 SAT=1 time_ms=0 nodes=3886 forced=7750 pruned=0
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=0 nodes=1415 forced=2807 pruned=0
+----- heuristics=lcv n=32 -----
+heuristics=lcv n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=0 nodes=5810 forced=11594 pruned=0
+seed=18088460149753419645 SAT=1 time_ms=1 nodes=2891 forced=5755 pruned=0
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=0 nodes=397 forced=767 pruned=0
+seed=2526523603164460765 SAT=1 time_ms=0 nodes=2412 forced=4796 pruned=0
+----- heuristics=lcv n=36 -----
+heuristics=lcv n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=0 nodes=712 forced=1392 pruned=0
+seed=15842882005678279266 SAT=1 time_ms=1 nodes=4936 forced=9842 pruned=0
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=0 nodes=4433 forced=8835 pruned=0
+seed=13301693760612988338 SAT=1 time_ms=0 nodes=2153 forced=4273 pruned=0
+----- heuristics=fc n=24 -----
+heuristics=fc n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=0 nodes=324 forced=403 pruned=307
+seed=3725397606666226389 SAT=1 time_ms=0 nodes=151 forced=181 pruned=142
+seed=12864093595789979735 SAT=1 time_ms=0 nodes=807 forced=971 pruned=557
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=fc n=28 -----
+heuristics=fc n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=0 nodes=861 forced=1172 pruned=578
+seed=9570298610396216866 SAT=1 time_ms=0 nodes=189 forced=211 pruned=108
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=0 nodes=87 forced=102 pruned=37
+----- heuristics=fc n=32 -----
+heuristics=fc n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=0 nodes=117 forced=135 pruned=59
+seed=18088460149753419645 SAT=1 time_ms=0 nodes=1002 forced=1230 pruned=571
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=0 nodes=1163 forced=1433 pruned=732
+seed=2526523603164460765 SAT=1 time_ms=0 nodes=740 forced=922 pruned=396
+----- heuristics=fc n=36 -----
+heuristics=fc n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=0 nodes=846 forced=996 pruned=286
+seed=15842882005678279266 SAT=1 time_ms=0 nodes=789 forced=908 pruned=293
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=0 nodes=1820 forced=2186 pruned=1206
+seed=13301693760612988338 SAT=1 time_ms=0 nodes=336 forced=371 pruned=124
+----- heuristics=prop n=24 -----
+heuristics=prop n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=0 nodes=199 forced=946 pruned=0
+seed=3725397606666226389 SAT=1 time_ms=0 nodes=79 forced=452 pruned=0
+seed=12864093595789979735 SAT=1 time_ms=0 nodes=400 forced=1783 pruned=0
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=prop n=28 -----
+heuristics=prop n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=0 nodes=480 forced=1854 pruned=0
+seed=9570298610396216866 SAT=1 time_ms=0 nodes=64 forced=309 pruned=0
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=0 nodes=39 forced=150 pruned=0
+----- heuristics=prop n=32 -----
+heuristics=prop n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=0 nodes=42 forced=184 pruned=0
+seed=18088460149753419645 SAT=1 time_ms=0 nodes=441 forced=2185 pruned=0
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=0 nodes=511 forced=2446 pruned=0
+seed=2526523603164460765 SAT=1 time_ms=0 nodes=257 forced=1255 pruned=0
+----- heuristics=prop n=36 -----
+heuristics=prop n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=0 nodes=276 forced=1226 pruned=0
+seed=15842882005678279266 SAT=1 time_ms=0 nodes=209 forced=1127 pruned=0
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=1 nodes=887 forced=4480 pruned=0
+seed=13301693760612988338 SAT=1 time_ms=0 nodes=87 forced=395 pruned=0
+----- heuristics=mrv,lcv n=24 -----
+heuristics=mrv,lcv n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=0 nodes=1403 forced=2787 pruned=0
+seed=3725397606666226389 SAT=1 time_ms=0 nodes=7317 forced=14615 pruned=0
+seed=12864093595789979735 SAT=1 time_ms=0 nodes=948 forced=1876 pruned=0
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=mrv,lcv n=28 -----
+heuristics=mrv,lcv n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=0 nodes=2258 forced=4494 pruned=0
+seed=9570298610396216866 SAT=1 time_ms=1 nodes=3886 forced=7750 pruned=0
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=0 nodes=1415 forced=2807 pruned=0
+----- heuristics=mrv,lcv n=32 -----
+heuristics=mrv,lcv n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=1 nodes=5810 forced=11594 pruned=0
+seed=18088460149753419645 SAT=1 time_ms=0 nodes=2891 forced=5755 pruned=0
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=0 nodes=397 forced=767 pruned=0
+seed=2526523603164460765 SAT=1 time_ms=0 nodes=2412 forced=4796 pruned=0
+----- heuristics=mrv,lcv n=36 -----
+heuristics=mrv,lcv n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=0 nodes=712 forced=1392 pruned=0
+seed=15842882005678279266 SAT=1 time_ms=1 nodes=4936 forced=9842 pruned=0
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=0 nodes=4433 forced=8835 pruned=0
+seed=13301693760612988338 SAT=1 time_ms=0 nodes=2153 forced=4273 pruned=0
+----- heuristics=mrv,fc n=24 -----
+heuristics=mrv,fc n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=0 nodes=261 forced=316 pruned=303
+seed=3725397606666226389 SAT=1 time_ms=0 nodes=129 forced=150 pruned=140
+seed=12864093595789979735 SAT=1 time_ms=0 nodes=399 forced=535 pruned=525
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=mrv,fc n=28 -----
+heuristics=mrv,fc n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=0 nodes=303 forced=379 pruned=366
+seed=9570298610396216866 SAT=1 time_ms=0 nodes=100 forced=117 pruned=105
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=0 nodes=41 forced=43 pruned=28
+----- heuristics=mrv,fc n=32 -----
+heuristics=mrv,fc n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=0 nodes=61 forced=65 pruned=47
+seed=18088460149753419645 SAT=1 time_ms=0 nodes=409 forced=527 pruned=511
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=0 nodes=537 forced=651 pruned=636
+seed=2526523603164460765 SAT=1 time_ms=0 nodes=260 forced=324 pruned=306
+----- heuristics=mrv,fc n=36 -----
+heuristics=mrv,fc n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=0 nodes=156 forced=186 pruned=168
+seed=15842882005678279266 SAT=1 time_ms=0 nodes=200 forced=239 pruned=223
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=0 nodes=969 forced=1221 pruned=1203
+seed=13301693760612988338 SAT=1 time_ms=0 nodes=120 forced=138 pruned=117
+----- heuristics=mrv,prop n=24 -----
+heuristics=mrv,prop n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=0 nodes=199 forced=946 pruned=0
+seed=3725397606666226389 SAT=1 time_ms=0 nodes=79 forced=452 pruned=0
+seed=12864093595789979735 SAT=1 time_ms=0 nodes=400 forced=1783 pruned=0
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=mrv,prop n=28 -----
+heuristics=mrv,prop n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=0 nodes=480 forced=1854 pruned=0
+seed=9570298610396216866 SAT=1 time_ms=0 nodes=64 forced=309 pruned=0
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=0 nodes=39 forced=150 pruned=0
+----- heuristics=mrv,prop n=32 -----
+heuristics=mrv,prop n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=0 nodes=42 forced=184 pruned=0
+seed=18088460149753419645 SAT=1 time_ms=0 nodes=441 forced=2185 pruned=0
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=0 nodes=511 forced=2446 pruned=0
+seed=2526523603164460765 SAT=1 time_ms=0 nodes=257 forced=1255 pruned=0
+----- heuristics=mrv,prop n=36 -----
+heuristics=mrv,prop n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=0 nodes=276 forced=1226 pruned=0
+seed=15842882005678279266 SAT=1 time_ms=0 nodes=209 forced=1127 pruned=0
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=0 nodes=887 forced=4480 pruned=0
+seed=13301693760612988338 SAT=1 time_ms=0 nodes=87 forced=395 pruned=0
+----- heuristics=lcv,fc n=24 -----
+heuristics=lcv,fc n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=0 nodes=314 forced=437 pruned=380
+seed=3725397606666226389 SAT=1 time_ms=0 nodes=513 forced=703 pruned=541
+seed=12864093595789979735 SAT=1 time_ms=0 nodes=188 forced=241 pruned=200
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=lcv,fc n=28 -----
+heuristics=lcv,fc n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=0 nodes=509 forced=761 pruned=409
+seed=9570298610396216866 SAT=1 time_ms=0 nodes=588 forced=802 pruned=594
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=0 nodes=453 forced=643 pruned=441
+----- heuristics=lcv,fc n=32 -----
+heuristics=lcv,fc n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=0 nodes=2291 forced=3359 pruned=1794
+seed=18088460149753419645 SAT=1 time_ms=0 nodes=480 forced=675 pruned=555
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=0 nodes=120 forced=156 pruned=102
+seed=2526523603164460765 SAT=1 time_ms=0 nodes=965 forced=1419 pruned=803
+----- heuristics=lcv,fc n=36 -----
+heuristics=lcv,fc n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=0 nodes=267 forced=356 pruned=279
+seed=15842882005678279266 SAT=1 time_ms=0 nodes=1449 forced=2120 pruned=1445
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=0 nodes=763 forced=1022 pruned=836
+seed=13301693760612988338 SAT=1 time_ms=0 nodes=439 forced=569 pruned=538
+----- heuristics=lcv,prop n=24 -----
+heuristics=lcv,prop n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=0 nodes=250 forced=949 pruned=0
+seed=3725397606666226389 SAT=1 time_ms=0 nodes=397 forced=2078 pruned=0
+seed=12864093595789979735 SAT=1 time_ms=0 nodes=139 forced=561 pruned=0
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=lcv,prop n=28 -----
+heuristics=lcv,prop n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=0 nodes=443 forced=1492 pruned=0
+seed=9570298610396216866 SAT=1 time_ms=0 nodes=435 forced=1771 pruned=0
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=0 nodes=323 forced=1128 pruned=0
+----- heuristics=lcv,prop n=32 -----
+heuristics=lcv,prop n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=0 nodes=1581 forced=5170 pruned=0
+seed=18088460149753419645 SAT=1 time_ms=0 nodes=369 forced=1629 pruned=0
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=0 nodes=97 forced=315 pruned=0
+seed=2526523603164460765 SAT=1 time_ms=1 nodes=685 forced=2244 pruned=0
+----- heuristics=lcv,prop n=36 -----
+heuristics=lcv,prop n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=0 nodes=195 forced=637 pruned=0
+seed=15842882005678279266 SAT=1 time_ms=1 nodes=1122 forced=3956 pruned=0
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=0 nodes=577 forced=2392 pruned=0
+seed=13301693760612988338 SAT=1 time_ms=0 nodes=315 forced=1302 pruned=0
+----- heuristics=fc,prop n=24 -----
+heuristics=fc,prop n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=0 nodes=169 forced=435 pruned=183
+seed=3725397606666226389 SAT=1 time_ms=0 nodes=62 forced=189 pruned=75
+seed=12864093595789979735 SAT=1 time_ms=0 nodes=395 forced=921 pruned=242
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=fc,prop n=28 -----
+heuristics=fc,prop n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=1 nodes=362 forced=950 pruned=307
+seed=9570298610396216866 SAT=1 time_ms=0 nodes=62 forced=168 pruned=39
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=0 nodes=34 forced=63 pruned=20
+----- heuristics=fc,prop n=32 -----
+heuristics=fc,prop n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=0 nodes=33 forced=77 pruned=20
+seed=18088460149753419645 SAT=1 time_ms=0 nodes=377 forced=1159 pruned=335
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=0 nodes=382 forced=1112 pruned=401
+seed=2526523603164460765 SAT=1 time_ms=0 nodes=233 forced=679 pruned=165
+----- heuristics=fc,prop n=36 -----
+heuristics=fc,prop n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=0 nodes=229 forced=635 pruned=114
+seed=15842882005678279266 SAT=1 time_ms=0 nodes=184 forced=540 pruned=139
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=0 nodes=704 forced=1990 pruned=732
+seed=13301693760612988338 SAT=1 time_ms=0 nodes=80 forced=223 pruned=47
+----- heuristics=mrv,lcv,fc,prop n=24 -----
+heuristics=mrv,lcv,fc,prop n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=0 nodes=198 forced=455 pruned=171
+seed=3725397606666226389 SAT=1 time_ms=1 nodes=279 forced=603 pruned=385
+seed=12864093595789979735 SAT=1 time_ms=0 nodes=125 forced=259 pruned=87
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=mrv,lcv,fc,prop n=28 -----
+heuristics=mrv,lcv,fc,prop n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=0 nodes=145 forced=261 pruned=161
+seed=9570298610396216866 SAT=1 time_ms=0 nodes=348 forced=727 pruned=277
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=0 nodes=199 forced=486 pruned=128
+----- heuristics=mrv,lcv,fc,prop n=32 -----
+heuristics=mrv,lcv,fc,prop n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=0 nodes=690 forced=1355 pruned=774
+seed=18088460149753419645 SAT=1 time_ms=0 nodes=293 forced=716 pruned=280
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=0 nodes=73 forced=112 pruned=47
+seed=2526523603164460765 SAT=1 time_ms=0 nodes=368 forced=698 pruned=434
+----- heuristics=mrv,lcv,fc,prop n=36 -----
+heuristics=mrv,lcv,fc,prop n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=0 nodes=153 forced=339 pruned=114
+seed=15842882005678279266 SAT=1 time_ms=1 nodes=743 forced=1533 pruned=729
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=0 nodes=426 forced=941 pruned=465
+seed=13301693760612988338 SAT=1 time_ms=0 nodes=274 forced=697 pruned=214
+----- heuristics=all n=24 -----
+heuristics=mrv,lcv,fc,prop n=24 max=1000 trials=5
+seed=13199904892383990122 SAT=1 time_ms=0 nodes=198 forced=455 pruned=171
+seed=3725397606666226389 SAT=1 time_ms=0 nodes=279 forced=603 pruned=385
+seed=12864093595789979735 SAT=1 time_ms=0 nodes=125 forced=259 pruned=87
+seed=3177328095571059570 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11078197931835017846 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+----- heuristics=all n=28 -----
+heuristics=mrv,lcv,fc,prop n=28 max=1000 trials=5
+seed=11643972896035815616 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=17584695545521792865 SAT=1 time_ms=0 nodes=145 forced=261 pruned=161
+seed=9570298610396216866 SAT=1 time_ms=0 nodes=348 forced=727 pruned=277
+seed=11726025025099510636 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=13455706549140600737 SAT=1 time_ms=0 nodes=199 forced=486 pruned=128
+----- heuristics=all n=32 -----
+heuristics=mrv,lcv,fc,prop n=32 max=1000 trials=5
+seed=5894663365715856750 SAT=1 time_ms=0 nodes=690 forced=1355 pruned=774
+seed=18088460149753419645 SAT=1 time_ms=0 nodes=293 forced=716 pruned=280
+seed=16335428669509774774 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=1703968430578286127 SAT=1 time_ms=0 nodes=73 forced=112 pruned=47
+seed=2526523603164460765 SAT=1 time_ms=0 nodes=368 forced=698 pruned=434
+----- heuristics=all n=36 -----
+heuristics=mrv,lcv,fc,prop n=36 max=1000 trials=5
+seed=10185338775045493784 SAT=1 time_ms=0 nodes=153 forced=339 pruned=114
+seed=15842882005678279266 SAT=1 time_ms=0 nodes=743 forced=1533 pruned=729
+seed=10046755500838067936 SAT=0 time_ms=0 nodes=0 forced=0 pruned=0
+seed=11800579881533935650 SAT=1 time_ms=0 nodes=426 forced=941 pruned=465
+seed=13301693760612988338 SAT=1 time_ms=1 nodes=274 forced=697 pruned=214
+end Mon Nov 10 11:12:33 AM UTC 2025
