@@ -79,7 +79,6 @@ int main(int argc,char**argv){
   cout<<"heuristics="<<hstr(A.H)<<" n="<<A.n<<" max="<<A.maxv<<" trials="<<A.trials<<"\n";
   for(int t=0;t<A.trials;t++){
     uint64_t s=A.seed+101u*t+7u;auto a=gen(A.n,A.maxv,s);uint64_t t0=nowms();Solver sv(a,A.H);bool sat=sv.solve();uint64_t ms=nowms()-t0;
-    cout<<"seed="<<s<<" SAT="<<(sat?1:0)<<" time_ms="<<ms<<" nodes="<<sv.S.nodes<<" forced="<<sv.S.forced<<" pruned="<<sv.S.pruned<<"\n";
   }
   return 0;
 }
